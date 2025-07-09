@@ -22,7 +22,7 @@ Este projeto é um **conversor de moedas** em Java que interage com o usuário v
 - `HttpClient`, `HttpRequest`, `HttpResponse`
 - Biblioteca [Gson](https://github.com/google/gson) para manipulação de JSON
 - API de câmbio: [ExchangeRate API](https://www.exchangerate-api.com/) (ou similar)
-
+- Lembre-se de alterar para a sua chave de API
 ---
 
 ## 📷 Demonstração
